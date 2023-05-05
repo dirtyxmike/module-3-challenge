@@ -114,7 +114,5 @@ document.getElementById("placeholder").textContent = password;
     return ps;
 
 function UserInput(ps) {
-    document.getElementById("password").textContent = ps;
-
-}
+    document.getElementById("password").textContent = ps;}
 }
